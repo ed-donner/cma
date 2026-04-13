@@ -1,5 +1,8 @@
 # Claude Managed Agents Demo
 
+The video walk-through is here:  
+https://youtu.be/5z1EX77_3po
+
 ## Setup instructions
 
 1. Clone this repo with `git clone https://github.com/ed-donner/cma.git`
